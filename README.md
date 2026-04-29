@@ -19,9 +19,11 @@ I build web and mobile applications with modern stacks — from pixel-perfect fr
 **Backend & Database**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **DevOps & Tools**
 
@@ -29,6 +31,7 @@ I build web and mobile applications with modern stacks — from pixel-perfect fr
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -38,11 +41,11 @@ I build web and mobile applications with modern stacks — from pixel-perfect fr
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[CVcraft](https://github.com/Zuhad-Nisar/CVcraft-demo)** | 100% free ATS-optimized resume builder | React, TypeScript, Supabase, Vercel |
-| **[AegisCore](https://github.com/Zuhad-Nisar/aegiscore-demo)** | Security-focused application framework | TypeScript |
-| **[Meeras](https://github.com/Zuhad-Nisar/meeras-demo)** | Premium abayas e-commerce platform — dark luxury aesthetic | WordPress, WooCommerce, PHP |
-| **[Champions](https://github.com/Zuhad-Nisar/champions-demo)** | Multi-branch restaurant ordering & delivery app | Flutter, Dart, Firebase |
-| **[RememberAll](https://github.com/Zuhad-Nisar/remember-all-demo)** | Smart note-taking & memory app | Flutter, Dart, Python |
+| **[AegisCore](https://github.com/Zuhad-Nisar/aegiscore-demo)** | Security operations platform — control room, officer management, compliance & encrypted comms | Django, Next.js, React Native, PostgreSQL |
+| **[RememberAll](https://github.com/Zuhad-Nisar/remember-all-demo)** | AI-powered memory companion — voice capture, smart classification, instant recall | Flutter, Django, Groq AI |
+| **[Meeras](https://github.com/Zuhad-Nisar/meeras-demo)** | Premium abayas e-commerce — dark luxury aesthetic | WordPress, WooCommerce, PHP |
+| **[Champions](https://github.com/Zuhad-Nisar/champions-demo)** | Multi-branch restaurant ordering & delivery app | Flutter, Firebase, Cloud Functions |
+| **[CVcraft](https://github.com/Zuhad-Nisar/CVcraft)** | 100% free ATS-optimized resume builder *(in progress)* | React, TypeScript, Supabase, Vercel |
 
 > *These are demo versions showcasing architecture and UI. Full source is private.*
 
