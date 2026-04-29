@@ -1,74 +1,97 @@
-# Hey there, I'm Zuhad Nisar 👋
-
-### Full-Stack & Mobile App Developer (AI Enhanced)
-
-I build web and mobile applications with modern stacks — from pixel-perfect frontends to scalable backends. I leverage AI to ship faster and smarter.
-
----
-
-### 🛠 Tech Stack
-
-**Frontend & Mobile**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-**Backend & Database**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**DevOps & Tools**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[AegisCore](https://github.com/Zuhad-Nisar/aegiscore-demo)** | Security operations platform — control room, officer management, compliance & encrypted comms | Django, Next.js, React Native, PostgreSQL |
-| **[RememberAll](https://github.com/Zuhad-Nisar/remember-all-demo)** | AI-powered memory companion — voice capture, smart classification, instant recall | Flutter, Django, Groq AI |
-| **[Meeras](https://github.com/Zuhad-Nisar/meeras-demo)** | Premium abayas e-commerce — dark luxury aesthetic | WordPress, WooCommerce, PHP |
-| **[Champions](https://github.com/Zuhad-Nisar/champions-demo)** | Multi-branch restaurant ordering & delivery app | Flutter, Firebase, Cloud Functions |
-| **[CVcraft](https://github.com/Zuhad-Nisar/CVcraft)** | 100% free ATS-optimized resume builder *(in progress)* | React, TypeScript, Supabase, Vercel |
-
-> *These are demo versions showcasing architecture and UI. Full source is private.*
-
----
-
-### 📊 GitHub Stats
+<h1 align="center">Zuhad Nisar</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zuhad-Nisar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <strong>Full-Stack & Mobile Developer</strong><br/>
+  I build production apps end-to-end — Flutter mobile, React/Next.js web, Django APIs, and AI integrations.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhad-Nisar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="mailto:Zuhadnisar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Zuhad-Nisar"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
 
-### 📫 Let's Connect
+### Tech Stack
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Zuhadnisar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zuhad-Nisar)
+**Mobile & Frontend**&ensp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Backend & Data**&ensp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Platform & Tools**&ensp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**[AegisCore](https://github.com/Zuhad-Nisar/aegiscore-demo)** — Security Operations Platform
+
+Real-time control room, officer management, SIA compliance tracking, encrypted comms, and shift planning for UK security companies.
+
+`Django` `Next.js` `React Native` `PostgreSQL`
+
+</td>
+<td width="50%">
+
+**[RememberAll](https://github.com/Zuhad-Nisar/remember-all-demo)** — AI Memory Companion
+
+Voice-powered memory app — speak a thought, AI classifies and stores it, ask for it back in plain English.
+
+`Flutter` `Django` `Groq AI` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Champions](https://github.com/Zuhad-Nisar/champions-demo)** — Restaurant Ordering App
+
+Multi-branch ordering with menu browsing, cart, checkout, real-time order tracking, and admin management.
+
+`Flutter` `Firebase` `Cloud Functions`
+
+</td>
+<td width="50%">
+
+**[Meeras](https://github.com/Zuhad-Nisar/meeras-demo)** — Premium E-Commerce
+
+Dark luxury WooCommerce theme built from scratch for a premium abayas brand. No page builders, no child themes.
+
+`WordPress` `WooCommerce` `PHP` `CSS`
+
+</td>
+</tr>
+</table>
+
+> Demo repos with screenshots and architecture — full source is private.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zuhad-Nisar&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&hide_rank=true" height="150" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhad-Nisar&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zuhad-Nisar&color=blueviolet&style=flat-square" alt="Profile Views" />
