@@ -25,6 +25,9 @@ I build web and mobile applications with modern stacks — from pixel-perfect fr
 
 **DevOps & Tools**
 
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -36,6 +39,7 @@ I build web and mobile applications with modern stacks — from pixel-perfect fr
 |---------|-------------|-------|
 | **[CVcraft](https://github.com/Zuhad-Nisar/CVcraft-demo)** | 100% free ATS-optimized resume builder | React, TypeScript, Supabase, Vercel |
 | **[AegisCore](https://github.com/Zuhad-Nisar/aegiscore-demo)** | Security-focused application framework | TypeScript |
+| **[Meeras](https://github.com/Zuhad-Nisar/meeras-demo)** | Premium abayas e-commerce platform — dark luxury aesthetic | WordPress, WooCommerce, PHP |
 | **[RememberAll](https://github.com/Zuhad-Nisar/remember-all-demo)** | Smart note-taking & memory app | Flutter, Dart, Python |
 
 > *These are demo versions showcasing architecture and UI. Full source is private.*
